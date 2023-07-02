@@ -1,63 +1,99 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Introduction</title>
-    <link>http://example.com/tags/</link>
-    <description>Recent content in Tags on Introduction</description>
+    <title>Tags on HOME</title>
+    <link>http://www.example.com/tags/</link>
+    <description>Recent content in Tags on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate><atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Jan 2023 11:51:36 +0100</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
-      <link>http://example.com/tags/blog/</link>
-      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      <title>Códigos curtos</title>
+      <link>http://www.example.com/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
       
-      <guid>http://example.com/tags/blog/</guid>
+      <guid>http://www.example.com/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>features</title>
-      <link>http://example.com/tags/features/</link>
-      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      <title>css</title>
+      <link>http://www.example.com/tags/css/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/features/</guid>
+      <guid>http://www.example.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>images</title>
-      <link>http://example.com/tags/images/</link>
-      <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
+      <title>html</title>
+      <link>http://www.example.com/tags/html/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/images/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>http://example.com/tags/code/</link>
-      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
-      
-      <guid>http://example.com/tags/code/</guid>
+      <guid>http://www.example.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://example.com/tags/markdown/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      <link>http://www.example.com/tags/markdown/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/markdown/</guid>
+      <guid>http://www.example.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>words</title>
-      <link>http://example.com/tags/words/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>privacy</title>
+      <link>http://www.example.com/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/words/</guid>
+      <guid>http://www.example.com/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>http://www.example.com/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>http://www.example.com/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>http://www.example.com/tags/development/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://www.example.com/tags/hugo/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>http://www.example.com/tags/themes/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/themes/</guid>
       <description></description>
     </item>
     

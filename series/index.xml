@@ -1,27 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Introduction</title>
-    <link>http://example.com/series/</link>
-    <description>Recent content in Series on Introduction</description>
+    <title>Series on HOME</title>
+    <link>http://www.example.com/series/</link>
+    <description>Recent content in Series on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate><atom:link href="http://example.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>quickstart</title>
-      <link>http://example.com/series/quickstart/</link>
-      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      <title>Hugo</title>
+      <link>http://www.example.com/series/hugo/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/series/quickstart/</guid>
+      <guid>http://www.example.com/series/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>example posts</title>
-      <link>http://example.com/series/example-posts/</link>
-      <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
+      <title>Theme</title>
+      <link>http://www.example.com/series/theme/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/series/example-posts/</guid>
+      <guid>http://www.example.com/series/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Themes Guide</title>
+      <link>http://www.example.com/series/themes-guide/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/series/themes-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guia do Thema</title>
+      <link>http://www.example.com/series/guia-do-thema/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/series/guia-do-thema/</guid>
       <description></description>
     </item>
     
